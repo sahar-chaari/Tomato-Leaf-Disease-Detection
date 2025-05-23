@@ -93,5 +93,5 @@ The dataset is sourced from [Roboflow: Tomato Leaf Disease Dataset](https://univ
 🔗 **Resources**
 
 - [Roboflow Dataset](https://universe.roboflow.com/bryan-b56jm/tomato-leaf-disease-ssoha/dataset/63)
-- [YOLO11]([https://github.com/ultralytics/yolov5](https://github.com/ultralytics/ultralytics))
+- [YOLO11](https://docs.ultralytics.com/fr/models/yolo11/)
 - [ResNet50](https://keras.io/api/applications/resnet/#resnet50-function)
