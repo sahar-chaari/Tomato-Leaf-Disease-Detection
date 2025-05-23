@@ -2,15 +2,14 @@
 
 🔍 **Overview**
 
-This project aims to detect diseases in tomato leaves using three different machine learning models: **YOLO11** , **YOLOv12** and **ResNet50**. The models are trained on the [Tomato Leaf Disease Dataset](https://universe.roboflow.com/bryan-b56jm/tomato-leaf-disease-ssoha/dataset/63) from **Roboflow**. The goal is to assist farmers in identifying and managing plant diseases more efficiently using AI.
+This project aims to detect diseases in tomato leaves using three different machine learning models: **YOLO11** , **YOLO12** and **ResNet50**. The models are trained on the [Tomato Leaf Disease Dataset](https://universe.roboflow.com/bryan-b56jm/tomato-leaf-disease-ssoha/dataset/63) from **Roboflow**. The goal is to assist farmers in identifying and managing plant diseases more efficiently using AI.
 
 ---
 
 🚀 **Features**
 
-- 🍃 **Multiple Models**: Three models for disease detection — YOLOv5 (v11, v12) and ResNet50.
+- 🍃 **Multiple Models**: Three models for disease detection — YOLOv11m, YOLOv12m and ResNet50.
 - 🌾 **Training Notebooks**: Jupyter Notebooks for training each model on the provided dataset.
-- 🧑‍💻 **Inference Script**: `model.py` to run the models and get predictions on new images.
 - 📊 **Dataset**: Dataset from Roboflow with various tomato leaf diseases, including bacterial spot, early blight, late blight, and more.
 
 ---
@@ -54,8 +53,8 @@ Tomato-Leaf-Disease-Detection/
 │   ├── YOLOv12m.pt         # YOLOv12 model
 │   └── ResNet50.py         # ResNet50 model
 ├── notebooks/
-│   ├── YOLOv11m.ipynb    # Training notebook for YOLOv5 (v11)
-│   ├── YOLOv12m.ipynb    # Training notebook for YOLOv5 (v12)
+│   ├── YOLOv11m.ipynb    # Training notebook for YOLOv11
+│   ├── YOLOv12m.ipynb    # Training notebook for YOLOv12
 │   └── ResNet50.ipynb    # Training notebook for ResNet50
 ├── dataset/
 │   └── README.md                # Dataset details and Roboflow download link              
