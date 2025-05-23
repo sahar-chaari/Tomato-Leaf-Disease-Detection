@@ -2,7 +2,7 @@
 
 🔍 **Overview**
 
-This project aims to detect diseases in tomato leaves using three different machine learning models: **YOLOv5 (YOLOv11, YOLOv12)** and **ResNet50**. The models are trained on the [Tomato Leaf Disease Dataset](https://universe.roboflow.com/bryan-b56jm/tomato-leaf-disease-ssoha/dataset/63) from **Roboflow**. The goal is to assist farmers in identifying and managing plant diseases more efficiently using AI.
+This project aims to detect diseases in tomato leaves using three different machine learning models: **YOLO11** , **YOLOv12** and **ResNet50**. The models are trained on the [Tomato Leaf Disease Dataset](https://universe.roboflow.com/bryan-b56jm/tomato-leaf-disease-ssoha/dataset/63) from **Roboflow**. The goal is to assist farmers in identifying and managing plant diseases more efficiently using AI.
 
 ---
 
