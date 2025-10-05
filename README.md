@@ -55,9 +55,7 @@ Tomato-Leaf-Disease-Detection/
 ├── notebooks/
 │   ├── YOLOv11m.ipynb    # Training notebook for YOLOv11
 │   ├── YOLOv12m.ipynb    # Training notebook for YOLOv12
-│   └── ResNet50.ipynb    # Training notebook for ResNet50
-├── dataset/
-│   └── README.md                # Dataset details and Roboflow download link              
+│   └── ResNet50.ipynb    # Training notebook for ResNet50           
 └── README.md              # Project overview
 ```
 
@@ -76,7 +74,7 @@ Follow the instructions in each notebook to run the training process.
 
 📝 **Dataset**
 
-The dataset is sourced from [Roboflow: Tomato Leaf Disease Dataset](https://universe.roboflow.com/bryan-b56jm/tomato-leaf-disease-ssoha/dataset/63). For details on the dataset and how to access it, check the `dataset/README.md` file.
+The dataset is sourced from [Roboflow: Tomato Leaf Disease Dataset](https://universe.roboflow.com/bryan-b56jm/tomato-leaf-disease-ssoha/dataset/63). 
 
 ---
 
